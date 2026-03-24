@@ -9,13 +9,12 @@ Product Bloat:
 36% product growth with low-performing items → indicates inventory inefficiency → recommend product rationalization.
 
 ## 📉 Dashboard Preview
-## 📉 Dashboard Preview
 
 ### Sales Overview
 ![Sales Overview](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/page1.png)
 
 ### Efficiency Analysis
-![Efficiency Analysis](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/Images/page2.png)
+![Efficiency Analysis](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/page2.png)
 
 ## 💡 Key Business Insights
 * **Amazon Risk:** Amazon carries a 14% discount rate—nearly double our 8% benchmark.
