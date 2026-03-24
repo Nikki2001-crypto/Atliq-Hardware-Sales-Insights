@@ -2,11 +2,20 @@
 **End-to-End BI Solution: SQL ETL ➔ Power BI Analytics ➔ Strategic Insights**
 
 ## 🎯 Executive Summary
-Identified a critical **14% discount leak** from our largest customer (Amazon) and isolated **$50M in "Profit Leaks"** caused by high manufacturing costs.
+Amazon Risk:
+Amazon operates at a 14% discount vs 8% benchmark → reduces profitability → requires renegotiation or pricing strategy.
+
+Product Bloat:
+36% product growth with low-performing items → indicates inventory inefficiency → recommend product rationalization.
 
 ## 📉 Dashboard Preview
-![Sales Overview](./Images/Page1_Screenshot.png)
-![Efficiency Analysis](./Images/Page2_Screenshot.png)
+## 📉 Dashboard Preview
+
+### Sales Overview
+![Sales Overview](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/Images/page1.png)
+
+### Efficiency Analysis
+![Efficiency Analysis](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/Images/page2.png)
 
 ## 💡 Key Business Insights
 * **Amazon Risk:** Amazon carries a 14% discount rate—nearly double our 8% benchmark.
