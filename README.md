@@ -12,7 +12,7 @@ Product Bloat:
 ## 📉 Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/Images/page1.png)
+![Sales Overview](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/page1.png)
 
 ### Efficiency Analysis
 ![Efficiency Analysis](https://raw.githubusercontent.com/Nikki2001-crypto/Atliq-Hardware-Sales-Insights/main/Images/page2.png)
